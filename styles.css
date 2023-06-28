@@ -9,16 +9,11 @@ h1 {
     font-family: Verdana, "Times New Roman", sans-serif;
 }
 
-.strawberry {
+.strawberry, .lemon, .cookies {
     height: 400px;
     width: auto;
 }
  
-.lemon {
-    height: 400px;
-    width: auto;
-}
-
 h3 {
     font-size: 25px;
 }
