@@ -1,6 +1,7 @@
 body {
     background-color: rgb(255, 245, 220);
     color: rgb(92, 64, 51);
+
 }
 
 h1 {
@@ -9,9 +10,10 @@ h1 {
     font-family: Verdana, "Times New Roman", sans-serif;
 }
 
-.strawberry, .lemon, .cookies {
+.img {
     height: 400px;
     width: auto;
+    
 }
  
 h3 {
