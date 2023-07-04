@@ -7,7 +7,8 @@ body {
 h1 {
     text-align: center;
     font-size: 40px;
-    font-family: Verdana, "Times New Roman", sans-serif;
+    font-family: verdana, "Times New Roman", sans-serif;
+    margin-top: 0;
 }
 
 .img {
@@ -24,13 +25,23 @@ p, li {
     font-size: 20px;
 }
 
+ul {
+   text-align: center;
+   margin-top: 30px;
+}
+
 .none li {
     list-style-type: none;
     margin-bottom: 10px;
+    font-size: 25px;
+    border: 10px solid rgb(92, 64, 51);
+    padding: 10px;
+    display: inline-block;
 }
 
 ul li a {
     text-decoration: none;
+    color: rgb(92, 64, 51);
     
 }
 
